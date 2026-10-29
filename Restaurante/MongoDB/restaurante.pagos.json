@@ -1,0 +1,50 @@
+[{
+  "_id": 1,
+  "monto": 13,
+  "metodo": "Efectivo",
+  "estado": "Pagado",
+  "fecha": {
+    "$date": "2026-10-24T14:00:00Z"
+  },
+  "id_pedido": 1
+},
+{
+  "_id": 2,
+  "monto": 12,
+  "metodo": "Tarjeta",
+  "estado": "Pagado",
+  "fecha": {
+    "$date": "2026-10-25T13:30:00Z"
+  },
+  "id_pedido": 2
+},
+{
+  "_id": 3,
+  "monto": 11,
+  "metodo": "Transferencia",
+  "estado": "Pagado",
+  "fecha": {
+    "$date": "2026-10-26T20:45:00Z"
+  },
+  "id_pedido": 3
+},
+{
+  "_id": 4,
+  "monto": 12,
+  "metodo": "Efectivo",
+  "estado": "Pendiente",
+  "fecha": {
+    "$date": "2026-10-27T21:15:00Z"
+  },
+  "id_pedido": 4
+},
+{
+  "_id": 5,
+  "monto": 4.5,
+  "metodo": "Tarjeta",
+  "estado": "Pendiente",
+  "fecha": {
+    "$date": "2026-10-28T12:30:00Z"
+  },
+  "id_pedido": 5
+}]

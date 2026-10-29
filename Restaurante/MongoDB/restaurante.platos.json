@@ -1,0 +1,35 @@
+[{
+  "_id": 1,
+  "nombre": "Ceviche de camaron",
+  "categoria": "Entrada",
+  "precio": 6.5,
+  "porciones": 18
+},
+{
+  "_id": 2,
+  "nombre": "Encebollado",
+  "categoria": "Plato fuerte",
+  "precio": 4,
+  "porciones": 12
+},
+{
+  "_id": 3,
+  "nombre": "Seco de pollo",
+  "categoria": "Plato fuerte",
+  "precio": 5.5,
+  "porciones": 10
+},
+{
+  "_id": 4,
+  "nombre": "Tres leches",
+  "categoria": "Postre",
+  "precio": 3,
+  "porciones": 6
+},
+{
+  "_id": 5,
+  "nombre": "Jugo de naranjilla",
+  "categoria": "Bebida",
+  "precio": 1.5,
+  "porciones": 27
+}]

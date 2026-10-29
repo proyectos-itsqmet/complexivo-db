@@ -1,0 +1,35 @@
+[{
+  "_id": 1,
+  "titulo": "Oppenheimer",
+  "genero": "Drama",
+  "duracion_min": 180,
+  "clasificacion": "12+"
+},
+{
+  "_id": 2,
+  "titulo": "Intensamente 2",
+  "genero": "Animacion",
+  "duracion_min": 96,
+  "clasificacion": "Todo publico"
+},
+{
+  "_id": 3,
+  "titulo": "Deadpool y Wolverine",
+  "genero": "Accion",
+  "duracion_min": 128,
+  "clasificacion": "15+"
+},
+{
+  "_id": 4,
+  "titulo": "Mi Villano Favorito 4",
+  "genero": "Comedia",
+  "duracion_min": 94,
+  "clasificacion": "Todo publico"
+},
+{
+  "_id": 5,
+  "titulo": "Terrifier 3",
+  "genero": "Terror",
+  "duracion_min": 125,
+  "clasificacion": "18+"
+}]

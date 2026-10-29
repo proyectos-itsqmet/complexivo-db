@@ -1,0 +1,30 @@
+[{
+  "_id": 1,
+  "nombre": "Carolina Espinoza",
+  "email": "carolina.espinoza@gmail.com",
+  "telefono": "0991111111"
+},
+{
+  "_id": 2,
+  "nombre": "Fernando Zambrano",
+  "email": "fernando.zambrano@hotmail.com",
+  "telefono": "0982222222"
+},
+{
+  "_id": 3,
+  "nombre": "Monica Velasco",
+  "email": "monica.velasco@gmail.com",
+  "telefono": "0973333333"
+},
+{
+  "_id": 4,
+  "nombre": "Ricardo Mena",
+  "email": "ricardo.mena@yahoo.com",
+  "telefono": "0964444444"
+},
+{
+  "_id": 5,
+  "nombre": "Tatiana Aguirre",
+  "email": "tatiana.aguirre@gmail.com",
+  "telefono": "0955555555"
+}]

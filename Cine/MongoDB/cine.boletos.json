@@ -1,0 +1,55 @@
+[{
+  "_id": 1,
+  "cantidad": 2,
+  "total": 9,
+  "estado": "Vendido",
+  "fecha": {
+    "$date": "2026-10-19T10:00:00Z"
+  },
+  "id_cliente": 1,
+  "id_funcion": 1
+},
+{
+  "_id": 2,
+  "cantidad": 3,
+  "total": 18,
+  "estado": "Vendido",
+  "fecha": {
+    "$date": "2026-10-21T12:30:00Z"
+  },
+  "id_cliente": 2,
+  "id_funcion": 2
+},
+{
+  "_id": 3,
+  "cantidad": 2,
+  "total": 9,
+  "estado": "Vendido",
+  "fecha": {
+    "$date": "2026-10-24T15:00:00Z"
+  },
+  "id_cliente": 3,
+  "id_funcion": 3
+},
+{
+  "_id": 4,
+  "cantidad": 4,
+  "total": 26,
+  "estado": "Vendido",
+  "fecha": {
+    "$date": "2026-10-27T09:15:00Z"
+  },
+  "id_cliente": 4,
+  "id_funcion": 4
+},
+{
+  "_id": 5,
+  "cantidad": 1,
+  "total": 5,
+  "estado": "Anulado",
+  "fecha": {
+    "$date": "2026-10-28T08:00:00Z"
+  },
+  "id_cliente": 5,
+  "id_funcion": 5
+}]

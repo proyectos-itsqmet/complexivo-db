@@ -1,0 +1,30 @@
+[{
+  "_id": 1,
+  "nombre": "Daniela Paredes",
+  "email": "daniela.paredes@gmail.com",
+  "telefono": "0991111111"
+},
+{
+  "_id": 2,
+  "nombre": "Sebastian Ortiz",
+  "email": "sebastian.ortiz@hotmail.com",
+  "telefono": "0982222222"
+},
+{
+  "_id": 3,
+  "nombre": "Gabriela Naranjo",
+  "email": "gabriela.naranjo@gmail.com",
+  "telefono": "0973333333"
+},
+{
+  "_id": 4,
+  "nombre": "Javier Cedeno",
+  "email": "javier.cedeno@yahoo.com",
+  "telefono": "0964444444"
+},
+{
+  "_id": 5,
+  "nombre": "Paola Villacis",
+  "email": "paola.villacis@gmail.com",
+  "telefono": "0955555555"
+}]

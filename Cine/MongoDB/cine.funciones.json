@@ -1,0 +1,65 @@
+[{
+  "_id": 1,
+  "fecha_hora": {
+    "$date": "2026-10-20T19:00:00Z"
+  },
+  "sala": {
+    "nombre": "Sala 1",
+    "tipo": "2D"
+  },
+  "precio": 4.5,
+  "asientos_disponibles": 38,
+  "id_pelicula": 1
+},
+{
+  "_id": 2,
+  "fecha_hora": {
+    "$date": "2026-10-22T16:00:00Z"
+  },
+  "sala": {
+    "nombre": "Sala 2",
+    "tipo": "3D"
+  },
+  "precio": 6,
+  "asientos_disponibles": 27,
+  "id_pelicula": 2
+},
+{
+  "_id": 3,
+  "fecha_hora": {
+    "$date": "2026-10-25T20:30:00Z"
+  },
+  "sala": {
+    "nombre": "Sala 1",
+    "tipo": "2D"
+  },
+  "precio": 4.5,
+  "asientos_disponibles": 38,
+  "id_pelicula": 3
+},
+{
+  "_id": 4,
+  "fecha_hora": {
+    "$date": "2026-11-05T18:00:00Z"
+  },
+  "sala": {
+    "nombre": "Sala 3",
+    "tipo": "3D"
+  },
+  "precio": 6.5,
+  "asientos_disponibles": 21,
+  "id_pelicula": 4
+},
+{
+  "_id": 5,
+  "fecha_hora": {
+    "$date": "2026-11-07T21:00:00Z"
+  },
+  "sala": {
+    "nombre": "Sala 3",
+    "tipo": "2D"
+  },
+  "precio": 5,
+  "asientos_disponibles": 20,
+  "id_pelicula": 5
+}]
